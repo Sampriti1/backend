@@ -1,0 +1,1 @@
+export const DB_NAME = "mytube" //name of the database of our application
